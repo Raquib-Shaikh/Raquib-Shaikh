@@ -1,154 +1,147 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ================= TOP ANIMATED BANNER ================= -->
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Welcome%20to%20my%20Profile!&fontSize=38&fontColor=ffffff&color=0:141E30,100:243B55&stroke=4A90E2&animation=fadeIn&fontAlignY=50" width="100%" />
+<!-- ================= INTRODUCTION ================= -->
 
-# Hi 👋, I'm Raquib Shaikh
+<h1 align="center">Hi 👋, I'm Raquib Shaikh</h1>
 
-### Java Full Stack Developer | Web Development | AI Enthusiast
+<h3 align="center">Java Full Stack Developer | Web Development | AI Enthusiast</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Raquib-Shaikh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raquib-Shaikh&label=Profile%20Views&color=0e75b6&style=flat" alt="Raquib-Shaikh" />
+</p>
 
 ---
 
 <!-- ================= ABOUT ME ================= -->
 
-## 💫 About Me
+### 💫 About Me
 
 Hi, I'm **Raquib Shaikh**.
 
-- 💻 Java Full Stack Developer passionate about building applications.
-- 🚀 Interested in Web Development and Artificial Intelligence.
+- 🔭 I'm passionate about Java Full Stack Development and building practical applications.
 - 🌱 Currently exploring modern technologies and improving my development skills.
-- 🔭 I enjoy building practical projects using Java, HTML, CSS, JavaScript, Angular and MySQL.
-- 🧠 Love learning, experimenting and turning ideas into working systems.
+- 💻 I enjoy building projects using Java, HTML, CSS, JavaScript, Angular and MySQL.
+- 🤖 Interested in Artificial Intelligence and Web Development.
+- 🧠 I love learning, experimenting, and turning ideas into working systems.
 - 🎯 Always focused on improving my technical and problem-solving skills.
 
 ---
 
-<!-- ================= SOCIALS ================= -->
+<!-- ================= SKILLS ================= -->
 
-## 🌐 Connect With Me
+### 🛠️ Skills
 
-<p align="left">
-<a href="https://instagram.com/raquib_05">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/raquib-shaikh05">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:raquib8shaikh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+**Programming Languages:** Java, JavaScript, HTML5, CSS3
+
+**Frameworks & Libraries:** Spring Core, Spring MVC, Spring Boot, Hibernate, Angular, React Native, FastAPI
+
+**Databases:** MySQL
+
+**Tools & Platforms:** Git, GitHub, AWS, Apache Tomcat, Postman, Canva, Figma
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ================= TECH STACK BADGES ================= -->
 
-## 💻 Tech Stack
+### 💻 Tech Stack Badges
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 <!-- ================= GITHUB STATS ================= -->
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raquib-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Raquib-Shaikh&show_icons=true&theme=dark" height="180em" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raquib-Shaikh&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquib-Shaikh&theme=dark&layout=compact" height="180em" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raquib-Shaikh&theme=dark" height="180em" />
 
 </div>
 
 ---
 
+<!-- ================= OTHER STATISTICS ================= -->
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Raquib-Shaikh&theme=tokyonight&no-frame=true&no-bg=true&column=4" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
-
----
-
-## 📈 Contribution Activity
+## 📈 Other Statistics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raquib-Shaikh&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raquib-Shaikh&theme=2077" height="180em" />
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raquib-Shaikh&theme=2077" height="180em" />
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raquib-Shaikh&theme=2077" height="180em" />
 
-## 📚 Most Used Languages
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raquib-Shaikh&theme=2077" height="180em" />
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquib-Shaikh&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raquib-Shaikh&theme=2077" height="180em" />
 
 </div>
 
 ---
 
-## 🚀 Top Contributed Repositories
+<!-- ================= CONNECT WITH ME ================= -->
+
+### 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Raquib-Shaikh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%" />
+<a href="https://www.linkedin.com/in/raquib-shaikh05" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/raquib_05" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:raquib8shaikh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
-## 🤝 Connect With Me
-
-💬 Feel free to connect with me for collaboration, development projects, and new opportunities.
-
-📧 **Email:** raquib8shaikh@gmail.com
-
-🔗 **LinkedIn:** [Raquib Shaikh](https://www.linkedin.com/in/raquib-shaikh05)
-
-📸 **Instagram:** [@raquib_05](https://instagram.com/raquib_05)
-
----
+<!-- ================= FOOTER ================= -->
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+### ⭐ Thanks for Visiting My GitHub Profile!
 
 **Keep Learning | Keep Building | Keep Growing 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
