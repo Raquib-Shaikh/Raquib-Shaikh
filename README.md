@@ -1,7 +1,7 @@
 
 <!-- ================= TOP ANIMATED BANNER ================= -->
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=ffffff&fontAlignY=40&font=Pacifico&color=0:6A5ACD,100:243B55&animation=fadeIn" width="100%" />
 
 <!-- ================= INTRODUCTION ================= -->
 
