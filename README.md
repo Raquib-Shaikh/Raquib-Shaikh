@@ -1,9 +1,7 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Raquib-Shaikh&label=Profile%20views&color=0e75b6&style=flat)
+
 # 💫 About Me:
 Hi, I'm Raquib Shaikh. <br><br>Java Full Stack Developer | Web Development | AI Enthusiast  <br>I build clean, functional applications and enjoy learning new technologies through hands-on projects.<br>I enjoy building practical projects using Java, HTML, CSS, JavaScript,Angular and MySQL, and I'm always learning new technologies to improve my skills.<br>I love learning, experimenting, and turning ideas into working systems.
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Raquib-Shaikh&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
