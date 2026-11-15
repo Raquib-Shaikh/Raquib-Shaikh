@@ -2,6 +2,11 @@
 Hi, I'm Raquib Shaikh. <br><br>Java Full Stack Developer | Web Development | AI Enthusiast  <br>I build clean, functional applications and enjoy learning new technologies through hands-on projects.<br>I enjoy building practical projects using Java, HTML, CSS, JavaScript,Angular and MySQL, and I'm always learning new technologies to improve my skills.<br>I love learning, experimenting, and turning ideas into working systems.
 
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raquib-Shaikh&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raquib_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raquib-shaikh05) ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raquib8shaikh@gmail.com) 
 
